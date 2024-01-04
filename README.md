@@ -2,7 +2,7 @@
 
 ## Exploratory Data Analysis
 
-- Performed cleaning on the dataset by checking for the NULL values and filling the NULL places with (0+0j)
+- Performed cleaning on the dataset by checking for the NULL values and removing it.
 - Label Encoded the various classes available in the dataset
 - Splitted the dataset into training and testing dataset where 80% is training dataset and 20% is testing dataset 
 
